@@ -1,6 +1,6 @@
 # Hi guys! :wave:
 * :nerd_face: I'm a 1st year high school student
-* :tada: I was born on the day 02/20/2006. I'm 15 years old
+* :tada: I'm 15 years old
 * :green_heart: I like to play videogames and study programming
 * :brazil: I'm from Brazil
 # Skills
