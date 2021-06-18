@@ -2,7 +2,7 @@
 * :nerd_face: I'm a 1st year high school student
 * :tada: I'm 15 years old
 * :green_heart: I like to play videogames and study programming
-* :brazil: I'm from Brazil
+* :brazil: Brazilian
 # Skills
 ![Javascript-100](https://user-images.githubusercontent.com/81483688/122459604-7c6d3b00-cf87-11eb-84d0-6c386b5f3af6.png)
 ![HTML5-100](https://user-images.githubusercontent.com/81483688/122460147-26e55e00-cf88-11eb-97d4-456bb691b33e.png)
